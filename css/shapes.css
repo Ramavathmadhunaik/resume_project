@@ -1,0 +1,74 @@
+.square
+{
+    border-style: dashed;
+    border-width: 10px;
+    border-color: blue;
+    background-image: url(./IMG_20211210_223140_204.jpg);
+
+    height: 200px;
+    width: 200px;
+}
+
+.rectangle
+{
+    border: dashed 10px blue;
+    background-image: url(./IMG_20211210_223140_204.jpg);
+
+    height: 200px;
+    width: 400px;
+
+}
+.circle
+{
+    border: dashed 10px blue; 
+    background-image: url(./IMG_20211210_223140_204.jpg);
+
+    height: 200px;
+    width: 200px;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+
+}
+.oval
+{
+    border:solid 10px blue;
+    height: 200px;
+    width: 400px;
+    background-image: url(./IMG_20211210_223140_204.jpg);
+    border-radius: 50%;
+
+}
+.triangle
+{
+    border: solid 2px blue;
+    width: 0px;
+	height: 0px;
+    border-top: 200px solid white;
+	border-left: 200px solid white;
+	border-right: 200px solid white;
+	border-bottom: 200px solid yellow;
+    
+    
+    
+}
+.squ
+{
+    border: solid 10px blue;
+    background-image: url(./IMG_20211210_223140_204.jpg);
+
+    height: 200px;
+    width: 200px;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    margin: 40px;
+}
+
+    

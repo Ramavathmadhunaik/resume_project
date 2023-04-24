@@ -1,0 +1,160 @@
+.header{
+    height: 450px;
+    width: 100%;
+    background-image: url(./images/header.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 30px;
+}
+.zomato{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.header .list .get{
+    padding-top: 15px;
+}
+.header .list .get a{
+    text-decoration: none;
+    color: white;
+}
+.header .list .get a img{
+    height: 15px;
+    width: 10px;
+}
+.header .list .list2 ul{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+}
+.header .list .list2 ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
+.header .search .search-container{
+    color: white;
+    text-align: center;
+}
+.header .search .zomato{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+.header .search select{
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+}
+.header .search input{
+    height: 45px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.img{
+    display: flex;
+    justify-content: space-evenly;
+}
+.image{
+    height: fit-content;
+    width: fit-content;
+    border-radius: 30px;
+    background-color: rgba(79, 79, 79, 0.078);
+}
+.image a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+.image a .order img{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.image a .ordertext p{
+    padding-left: 20px;
+}
+.collections-heading{
+    padding-top: 30px;
+    padding-left: 200px;
+    font-family: sans-serif;
+}
+.collections-heading h1{
+    font-size: 35px;
+}
+.collections-heading{
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+.collections-heading span a{
+    text-decoration: none;
+    color: rgba(255, 0, 0, 0.55);
+    padding-left: 50px;
+}
+.collection{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.collection div{
+    padding-left: 20px;
+}
+.collections-image{
+    height: 320px;
+    width: 280px;
+    border-radius: 10px;
+    position: relative;   
+}
+.collections-image img{
+    height: 320px;
+    width: 280px ;
+    border-radius: 10px;
+}
+.collections-image .romantic-text{
+    position: absolute;
+    margin-top: -100px;
+    color: white;
+    padding-left: 20px;
+    padding-top: 5px;
+    font-family: sans-serif;
+}
+.zomato{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.madhu{
+   
+    padding-top: -150px;
+    text-align: center;
+    font-size: 30px;
+    
+
+}  
+.naik{
+    border: 1px solid black;
+    height: 100px;
+    width: 200px;
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+}
+.madhunaik{
+    
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+.mmm{
+    margin: 0px 600px;
+   
+}
+.ara{
+    padding-bottom: 500px;
+}

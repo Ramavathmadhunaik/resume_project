@@ -1,0 +1,190 @@
+.background{
+    background: url(./image/backmm.webp);
+}
+.shaadhi{
+    display: flex;
+    margin-left: 70px;
+    margin-top: 30px;
+    font-size: 40px;
+    color: white;
+}
+.shaadhi h5{
+    margin-top: 75px;
+    color: white;
+}
+.head1{
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 1100px;
+    position: absolute;
+    top: 30px;
+    color: white;
+   
+}
+.head1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.main-text h1{
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+}
+.head-login{
+    margin-top: 10px;
+    color: white;
+}
+.select{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    width: 1000px;
+    margin-left: 250px;
+}
+.select h4{
+    margin-top: 10px;
+    color: white;
+}
+.select button{
+    margin-top: 50px;
+    color: black;
+    background-color: chocolate;
+    border: 2px solid black;
+    height: 30px;
+    width: auto;
+    border-radius: 10px;
+}
+select{
+    border: 2px solid black;
+    height: 30px;
+    width: auto;
+    border-radius: 10px;
+}
+.pellam-hedding{
+    color: rgb(206, 70, 70);
+    text-align: center;
+    margin-top: 80px;
+    font-size: 40px;
+
+}
+.three-bommalu{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 100px;
+}
+.three-bommalu h2 a{
+    text-decoration: none;
+    color: black;
+}
+.moguds-pellams{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: bisque;
+
+}
+.headding h2{
+    color: rgb(206, 70, 70);
+    text-align: center;
+    margin-top: 80px;
+    font-size: 40px;
+
+}
+.dont-want h3{
+    color: rgb(206, 70, 70);
+}
+.pellillu{
+    display: flex;
+    justify-content: space-between;
+}
+.rendova-headdingu{
+    border: none;
+    height: 100px;
+    width: 100%;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-evenly;
+}
+.rendova-headdingu button{
+    background-color: white;
+    margin-right: 400px;
+    margin-top: 20px;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+}
+.rendova-headdingu h1{
+    margin-left: 200px;
+}
+.malli-headding{
+    color: rgb(206, 70, 70);
+    text-align: center;
+    font-size: 30px;
+}
+.pillavi{
+    display: flex;
+    justify-content: space-evenly;
+    width: 1400px;
+    
+}
+.pillavi a{
+    text-decoration: none;
+}
+.img-s{
+    margin-left: 700px;
+}
+.thu h2{
+    color: rgb(206, 70, 70);
+    font-size: 20px;
+
+}
+.mardalunga{
+    border: none;
+    height: 30px;
+    width: 250px;
+    background-color:rgb(95, 95, 209);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+    margin-left: 650px;
+}
+.thodipelli{
+    border: 2px solid black;
+    height: 50px;
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 400px;
+    font-size: 20px;
+    padding-top: 30px;
+    border-left: none;
+    border-right: none;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.footer ul li a{
+    text-decoration: none;
+    color: black;
+
+}
+.footer ul{
+    list-style-type: none;
+}
+.india{
+    display: flex;
+    margin-left: 600px;
+    
+}
+.chi h4{
+    width: 1000px;
+    margin-left: 240px;
+
+}
+
+

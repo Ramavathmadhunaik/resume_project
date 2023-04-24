@@ -1,0 +1,52 @@
+.header{
+    font-size: 100px;
+    font-weight: bold;
+    font-size: larger;
+    font-family: sans-serif;
+    text-shadow: 10px 10px 15px grey;
+    background-color:red;
+    color: black;
+    padding: 10px 10px 15px 0px;
+    text-align: center;
+
+    position: fixed;
+    width: 100%;
+    top: 0px;
+}
+.container{
+    border: solid 1px grey;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 10px grey;
+    border-radius: 20px;
+    margin: 20px ;
+    
+}
+.main-container{
+    display: flex;
+    justify-content: space-evenly;
+       
+}
+.section{
+    margin-top: 100px;
+
+}
+img{
+    height:200px;
+    width:300px;
+    border-radius: 10px;
+    transition: all 3s;
+}
+
+.section{
+    margin-top: 100px;
+}
+
+img:hover{
+    transform: scale(2,2);
+}
+
+body{
+    background-image: url(./madhunaik/back\ image\ 1111111.webp);
+}

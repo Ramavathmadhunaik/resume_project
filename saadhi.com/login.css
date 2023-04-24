@@ -1,0 +1,29 @@
+.login{
+    border: 2px solid black;
+    height: auto;
+    width: 300px;
+    margin-left: 500px;
+}
+.login img{
+    margin-left: 125px;
+}
+.login label{
+    margin-left: 50px;
+}
+.login input{
+    margin-left: 50px;
+}
+.login button{
+    margin-left: 50px;
+    width: 200px;
+}
+.login h5{
+    margin-left: 125px;
+}
+.rey{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 35px;
+}
+
+

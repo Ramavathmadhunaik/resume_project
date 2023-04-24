@@ -1,0 +1,26 @@
+.container{
+    border: solid 1px grey;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 10px grey;
+    border-radius: 20px;
+    margin: 20px ;
+    
+}
+.main-container{
+    display: flex;
+    justify-content: space-evenly;
+       
+}
+img{
+    height:200px;
+    width:300px;
+    border-radius: 10px;
+    transition: all 3s;
+}
+body{
+    background-image: url(./madhunaik/222222222.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
